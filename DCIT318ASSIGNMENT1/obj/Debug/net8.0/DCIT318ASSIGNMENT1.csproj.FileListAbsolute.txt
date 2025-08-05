@@ -1,0 +1,5 @@
+C:\Users\elike\OneDrive\Desktop\DCIT318ASSIGNMENT1\DCIT318ASSIGNMENT1\obj\Debug\net8.0\DCIT318ASSIGNMENT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\OneDrive\Desktop\DCIT318ASSIGNMENT1\DCIT318ASSIGNMENT1\obj\Debug\net8.0\DCIT318ASSIGNMENT1.AssemblyInfoInputs.cache
+C:\Users\elike\OneDrive\Desktop\DCIT318ASSIGNMENT1\DCIT318ASSIGNMENT1\obj\Debug\net8.0\DCIT318ASSIGNMENT1.AssemblyInfo.cs
+C:\Users\elike\OneDrive\Desktop\DCIT318ASSIGNMENT1\DCIT318ASSIGNMENT1\obj\Debug\net8.0\DCIT318ASSIGNMENT1.csproj.CoreCompileInputs.cache
+C:\Users\elike\OneDrive\Desktop\DCIT318ASSIGNMENT1\DCIT318ASSIGNMENT1\obj\Debug\net8.0\DCIT318ASSIGNMENT1.sourcelink.json
