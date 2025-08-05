@@ -13,7 +13,7 @@ class TicketPriceCalculator
 
             if (input.ToLower() == "q")
                 break;
-
+            
             if (int.TryParse(input, out int age))
             {
                 if (age >= 0 && age <= 120) // Added upper bound for realistic age
